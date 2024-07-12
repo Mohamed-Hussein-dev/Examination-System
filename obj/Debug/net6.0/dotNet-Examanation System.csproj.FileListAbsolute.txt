@@ -1,0 +1,4 @@
+/media/mohamed/D-disk/dotNet-Examanation System/obj/Debug/net6.0/dotNet-Examanation System.GeneratedMSBuildEditorConfig.editorconfig
+/media/mohamed/D-disk/dotNet-Examanation System/obj/Debug/net6.0/dotNet-Examanation System.AssemblyInfoInputs.cache
+/media/mohamed/D-disk/dotNet-Examanation System/obj/Debug/net6.0/dotNet-Examanation System.AssemblyInfo.cs
+/media/mohamed/D-disk/dotNet-Examanation System/obj/Debug/net6.0/dotNet-Examanation System.csproj.CoreCompileInputs.cache
